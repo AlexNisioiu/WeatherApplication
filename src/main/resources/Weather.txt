@@ -1,0 +1,100 @@
+Bucuresti: 31°C: 55%: 15 km/h: Romania
+Cluj-Napoca: 32°C: 50%: 12 km/h: Romania
+Constanta: 30°C: 60%: 20 km/h: Romania
+Timisoara: 37°C: 40%: 10 km/h: Romania
+Iasi: 32°C: 52%: 18 km/h: Romania
+Craiova: 33°C: 45%: 14 km/h: Romania
+Brasov: 29°C: 55%: 13 km/h: Romania
+Codlea: 30°C: 57%: 16 km/h: Romania
+Fieni: 29°C: 58%: 12 km/h: Romania
+Beius: 33°C: 52%: 17 km/h: Romania
+Valenii de Munte: 30°C: 56%: 14 km/h: Romania
+Aiud: 32°C: 53%: 15 km/h: Romania
+Urziceni: 31°C: 54%: 19 km/h: Romania
+Moreni: 30°C: 56%: 11 km/h: Romania
+Salonta: 34°C: 50%: 16 km/h: Romania
+Mioveni: 31°C: 55%: 12 km/h: Romania
+Borsa: 29°C: 59%: 20 km/h: Romania
+Falticeni: 30°C: 57%: 14 km/h: Romania
+Ramnicu Sarat: 31°C: 55%: 18 km/h: Romania
+Husi: 31°C: 54%: 13 km/h: Romania
+Comanesti: 30°C: 57%: 15 km/h: Romania
+Orsova: 34°C: 50%: 12 km/h: Romania
+Motru: 33°C: 52%: 14 km/h: Romania
+Navodari: 30°C: 58%: 21 km/h: Romania
+Rosiorii de Vede: 32°C: 53%: 17 km/h: Romania
+Rovinari: 33°C: 51%: 13 km/h: Romania
+Toplița: 29°C: 59%: 10 km/h: Romania
+Suceava: 18°C: 72%: 16 km/h: Romania
+Botosani: 19°C: 68%: 12 km/h: Romania
+Bistrita: 20°C: 60%: 14 km/h: Romania
+Vaslui: 21°C: 65%: 15 km/h: Romania
+Gura Humorului: 17°C: 74%: 18 km/h: Romania
+Oradea: 21°C: 63%: 11 km/h: Romania
+Arad: 22°C: 60%: 14 km/h: Romania
+Ploiesti: 19°C: 68%: 13 km/h: Romania
+Sibiu: 18°C: 72%: 17 km/h: Romania
+Focsani: 20°C: 67%: 15 km/h: Romania
+Miercurea Ciuc: 16°C: 75%: 12 km/h: Romania
+Targu Mures: 21°C: 63%: 14 km/h: Romania
+Drobeta-Turnu Severin: 23°C: 59%: 16 km/h: Romania
+Giurgiu: 22°C: 66%: 19 km/h: Romania
+Satu Mare: 19°C: 71%: 20 km/h: Romania
+Sannicolau Mare: 15.0°C: 80%: 22 km/h: Romania
+Mogosoaia: 17.2°C: 70%: 18 km/h: Romania
+Campulung Moldovenesc: 14.8°C: 85%: 17 km/h: Romania
+Gaesti: 16.3°C: 65%: 13 km/h: Romania
+Marasesti: 18.1°C: 60%: 15 km/h: Romania
+Radauti: 13.9°C: 78%: 14 km/h: Romania
+Brezoi: 12.5°C: 90%: 20 km/h: Romania
+Cumpana: 20.4°C: 55%: 21 km/h: Romania
+Bacau: 28°C: 60%: 14 km/h: Romania
+Alba Iulia: 30°C: 58%: 13 km/h: Romania
+Piatra Neamt: 29°C: 62%: 15 km/h: Romania
+Tulcea: 31°C: 65%: 18 km/h: Romania
+Deva: 32°C: 57%: 12 km/h: Romania
+Targu Jiu: 33°C: 53%: 17 km/h: Romania
+Zalau: 30°C: 55%: 14 km/h: Romania
+Buzau: 29°C: 60%: 16 km/h: Romania
+Medgidia: 31°C: 63%: 19 km/h: Romania
+Roman: 28°C: 61%: 13 km/h: Romania
+Caracal: 32°C: 54%: 16 km/h: Romania
+Petrosani: 29°C: 60%: 14 km/h: Romania
+Curtea de Arges: 30°C: 57%: 13 km/h: Romania
+Resita: 31°C: 55%: 15 km/h: Romania
+Campina: 28°C: 62%: 14 km/h: Romania
+Ramnicu Valcea: 30°C: 58%: 17 km/h: Romania
+Calarasi: 33°C: 52%: 18 km/h: Romania
+Mangalia: 29°C: 64%: 20 km/h: Romania
+Slatina: 32°C: 56%: 13 km/h: Romania
+Vulcan: 28°C: 59%: 14 km/h: Romania
+Sighetu Marmatiei: 27°C: 63%: 12 km/h: Romania
+Cisnadie: 29°C: 59%: 14 km/h: Romania
+Cugir: 30°C: 57%: 13 km/h: Romania
+Fagaras: 31°C: 54%: 16 km/h: Romania
+Lugoj: 32°C: 55%: 17 km/h: Romania
+Medias: 29°C: 60%: 14 km/h: Romania
+Orastie: 30°C: 58%: 13 km/h: Romania
+Sebes: 31°C: 56%: 15 km/h: Romania
+Targoviste: 32°C: 53%: 18 km/h: Romania
+Londra: 28°C: 60%: 15 km/h: Anglia
+Manchester: 24°C: 65%: 12 km/h: Anglia
+Birmingham: 26°C: 58%: 14 km/h: Anglia
+Liverpool: 23°C: 70%: 13 km/h: Anglia
+Bristol: 27°C: 62%: 16 km/h: Anglia
+Madrid: 34°C: 40%: 20 km/h: Spania
+Barcelona: 30°C: 55%: 18 km/h: Spania
+Valencia: 32°C: 50%: 22 km/h: Spania
+Sevilla: 38°C: 35%: 25 km/h: Spania
+Malaga: 31°C: 60%: 19 km/h: Spania
+Berlin: 29°C: 55%: 17 km/h: Germania
+Munchen: 27°C: 60%: 15 km/h: Germania
+Hamburg: 25°C: 65%: 13 km/h: Germania
+Frankfurt: 28°C: 50%: 20 km/h: Germania
+
+
+
+
+
+
+
